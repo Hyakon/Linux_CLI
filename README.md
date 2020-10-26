@@ -5,3 +5,6 @@ To execute .sh file use :
 chmod +x file_name.sh
 ./file_name.sh
 ```
+
+To learn more about markdown :
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
